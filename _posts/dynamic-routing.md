@@ -1,5 +1,5 @@
 ---
-title: Dynamic Routing and Static Generation
+title: Super-Dynamic Routing and Static Generation
 excerpt: Testy test test. Lorem ipsum dolor sit amet, consectetur adipiscing
   elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ipsum
   dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -7,7 +7,7 @@ excerpt: Testy test test. Lorem ipsum dolor sit amet, consectetur adipiscing
   fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla
   facilities morbi tempus.
 coverImage: /assets/blog/dynamic-routing/cover.jpg
-date: 2020-03-16T09:35:00.000Z
+date: 2020-03-16T13:35:00.000Z
 author:
   name: JJ Kasper
   picture: /assets/blog/authors/jj.jpeg
